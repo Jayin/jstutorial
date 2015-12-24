@@ -94,7 +94,7 @@ modifiedOn: 2014-05-18
 - [RequireJS和AMD规范](tool/requirejs.html)
 - [Source map](tool/sourcemap.html)
 - [Lint工具](tool/lint.html)
-- [JavaScript 测试](tool/testing.html)
+- [JavaScript测试](tool/testing.html)
 
 <h2 id="advanced">JavaScript高级语法</h2>
 
